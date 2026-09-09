@@ -1,3 +1,56 @@
+<div align="center">
+
+# 🐎 umahachimios
+
+**安装器辅助 so 插件**
+
+![仓库](https://img.shields.io/badge/仓库-xf8410-8B5CF6?style=flat-square) ![分支](https://img.shields.io/badge/分支-2-10B981?style=flat-square) ![版本](https://img.shields.io/badge/版本-0-F59E0B?style=flat-square) ![CI](https://img.shields.io/badge/CI-1-3B82F6?style=flat-square)
+
+</div>
+
+---
+> 📌 **一句话定位**：安装器辅助 so 插件
+
+## 🧭 项目定位
+
+Hachimi 系安装器的 so 辅助插件：配合安装器完成注入与文件布置。
+
+## ✨ 核心功能
+- 安装器辅助注入
+
+## 🌿 分支导览（共 2 个分支全览）
+
+<details open>
+<summary><b>点击收起/展开全部分支用途说明</b></summary>
+
+| 分支 | 用途说明 |
+|---|---|
+| `main` | 主干 |
+
+</details>
+
+## 🏷️ 版本历史
+
+无 release。
+
+完整版本列表 ➡️ [Releases 页](../../releases)
+
+## ⚙️ CI 流水线（共 1 条）
+
+| 流水线 | 用途说明 |
+|---|---|
+| （无 CI） | 本地构建 |
+
+
+---
+
+## 📜 历史介绍存档
+
+> 以下为仓库原有介绍，**内容未删改**，仅移入存档区（新版介绍以本页上方为准）。
+
+<details>
+<summary><b>点击展开原 README</b></summary>
+
 # Umahachimios — 赛马娘哈基米AI SO插件
 
 基于哈基米(Hachimi)框架的赛马娘育成AI辅助SO插件，纯Java实现，通过HTTP从hlpatch获取游戏内存数据，运行AI决策算法后对外提供推荐API。
@@ -53,3 +106,6 @@
 - [hlpatch](https://github.com/xf8410/hlpatch) — 内存读取SO插件(Rust)
 - [uma-juece](https://github.com/xf8410/uma-juece) — 浮窗决策App(Java)
 - [uma-data](https://github.com/xf8410/uma-data) — 事件数据(JSON)
+
+
+</details>
